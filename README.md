@@ -15,6 +15,8 @@ Spark: For data cleaning and preparation.
 Apache Airflow: For pipeline automation.
 Azure Synapse: For data warehousing and visualization.
 Databricks: For collaborative data analysis and dashboards.
+
+![Project Workflow](https://github.com/Aeshah94/Big_Data_engineering/blob/main/2024-07-01.png?raw=true)
 ### Project Workflow
 Data Ingestion: Data was ingested from AWS RDS (Postgres DB), Azure Blob Storage, and AWS S3 into Azure Data Lake using Azure Data Factory.
 Data Transformation:
